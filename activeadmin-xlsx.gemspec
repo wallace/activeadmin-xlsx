@@ -4,8 +4,8 @@ require File.expand_path('../lib/activeadmin-xlsx/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Jonathan R. Wallace"]
   gem.email         = ["jonathan.wallace@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{A plugin for activeadmin that provides the ability to export resouces as xlsx documents.}
+  gem.summary       = %q{A plugin for activeadmin that provides the ability to export resouces as xlsx documents.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)

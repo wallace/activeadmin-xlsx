@@ -1,6 +1,6 @@
 # Activeadmin::Xlsx
 
-TODO: Write a gem description
+A plugin for activeadmin that provides the ability to export resouces as xlsx documents.
 
 ## Installation
 
