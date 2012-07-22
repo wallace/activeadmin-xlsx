@@ -1,3 +1,4 @@
+require "activeadmin"
 require "activeadmin-xlsx/version"
 
 module Activeadmin
